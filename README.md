@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Nguyễn Văn Hải 
-- 👀 I’m interested in full-stack developer and blockchain
+- 👀 I’m interested in full-stack developer
 - 🌱 I’m currently learning reactJS, Golang, nodeJS for full-stack developer
-- 💞️ I’m looking to collaborate on blockchain
 - 📫 How to reach me nvhai2408@gmail.com
