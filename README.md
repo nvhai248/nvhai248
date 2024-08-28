@@ -1,9 +1,9 @@
 # 💫About Me :
 👋: Hello, I'm @nvhai248
 
-👀: I'm passionate about Golang, the Javascript programming language.
+👀: I'm passionate about Golang, the Javascript and Python programming language.
 
-🌱: Currently I am focusing on studying at Ho Chi Minh City University of Sciences.
+🌱: I am currently focusing on self development to improve my skills and knowledge.
 
 💞️: I am ready to accept interesting cooperation opportunities in this field.
 
